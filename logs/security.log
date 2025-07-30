@@ -1,0 +1,57 @@
+[2025-07-30 10:38:54] User: 7 (veli@gmail.com) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 10:38:54] User: 7 (veli@gmail.com) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 10:47:57] User: 8 (admin@talentbridge.com) | IP: ::1 | Event: LOGIN_SUCCESS | Details: Role: admin
+[2025-07-30 10:55:43] User: 8 (admin@talentbridge.com) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 10:55:43] User: 8 (admin@talentbridge.com) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 10:55:50] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGIN_SUCCESS | Details: Role: employee
+[2025-07-30 10:55:58] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 10:55:58] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:04:38] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGIN_SUCCESS | Details: Role: employee
+[2025-07-30 12:04:47] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:04:47] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:04:53] User: 8 (admin@talentbridge.com) | IP: ::1 | Event: LOGIN_SUCCESS | Details: Role: admin
+[2025-07-30 12:09:51] User: 8 (admin@talentbridge.com) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:09:51] User: 8 (admin@talentbridge.com) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:09:56] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGIN_SUCCESS | Details: Role: employee
+[2025-07-30 12:10:18] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:10:18] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:10:45] User: 8 (admin@talentbridge.com) | IP: ::1 | Event: LOGIN_SUCCESS | Details: Role: admin
+[2025-07-30 12:15:11] User: 8 (admin@talentbridge.com) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:15:11] User: 8 (admin@talentbridge.com) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:15:16] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGIN_SUCCESS | Details: Role: employee
+[2025-07-30 12:21:25] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:21:25] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:21:58] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGIN_SUCCESS | Details: Role: employee
+[2025-07-30 12:22:49] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:22:49] User: 1 (dogukankomurcu@outlook.com.tr) | IP: ::1 | Event: LOGOUT | Details: 
+[2025-07-30 12:22:57] User: 8 (admin@talentbridge.com) | IP: ::1 | Event: LOGIN_SUCCESS | Details: Role: admin
+[2025-07-30 12:35:48] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı database_update.php sayfasına erişti | {"page":"database_update.php"}
+[2025-07-30 12:35:57] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı database_update.php sayfasına erişti | {"page":"database_update.php"}
+[2025-07-30 12:35:57] DATABASE_UPDATE | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin tarafından veritabanı güncellendi | {}
+[2025-07-30 12:35:57] DATABASE_LOG_ERROR: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2025-07-30 12:37:30] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı database_update.php sayfasına erişti | {"page":"database_update.php"}
+[2025-07-30 12:37:30] DATABASE_UPDATE | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin tarafından veritabanı güncellendi | {}
+[2025-07-30 12:37:30] DATABASE_LOG_ERROR: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2025-07-30 12:37:32] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı data_import.php sayfasına erişti | {"page":"data_import.php"}
+[2025-07-30 12:37:33] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı database_update.php sayfasına erişti | {"page":"database_update.php"}
+[2025-07-30 12:37:34] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı database_update.php sayfasına erişti | {"page":"database_update.php"}
+[2025-07-30 12:37:34] DATABASE_UPDATE | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin tarafından veritabanı güncellendi | {}
+[2025-07-30 12:37:34] DATABASE_LOG_ERROR: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)
+[2025-07-30 12:43:10] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı data_import.php sayfasına erişti | {"page":"data_import.php"}
+[2025-07-30 12:43:11] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı database_update.php sayfasına erişti | {"page":"database_update.php"}
+[2025-07-30 12:43:13] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı database_update.php sayfasına erişti | {"page":"database_update.php"}
+[2025-07-30 12:43:13] DATABASE_UPDATE | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin tarafından veritabanı güncellendi | {"queries":5}
+[2025-07-30 12:43:16] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı database_update.php sayfasına erişti | {"page":"database_update.php"}
+[2025-07-30 12:43:16] DATABASE_UPDATE | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin tarafından veritabanı güncellendi | {"queries":5}
+[2025-07-30 12:43:17] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı database_update.php sayfasına erişti | {"page":"database_update.php"}
+[2025-07-30 12:43:17] DATABASE_UPDATE | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin tarafından veritabanı güncellendi | {"queries":5}
+[2025-07-30 12:43:18] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı database_update.php sayfasına erişti | {"page":"database_update.php"}
+[2025-07-30 12:43:18] DATABASE_UPDATE | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin tarafından veritabanı güncellendi | {"queries":5}
+[2025-07-30 12:43:20] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı database_update.php sayfasına erişti | {"page":"database_update.php"}
+[2025-07-30 12:43:21] ADMIN_AREA_ACCESS | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin kullanıcı database_update.php sayfasına erişti | {"page":"database_update.php"}
+[2025-07-30 12:43:21] DATABASE_UPDATE | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Admin tarafından veritabanı güncellendi | {"queries":5}
+[2025-07-30 12:43:25] LOGOUT | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 |  | {}
+[2025-07-30 12:43:25] LOGOUT | User: TalentBridge Admin (ID: 8, Role: admin) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 |  | {}
+[2025-07-30 12:43:29] LOGIN_SUCCESS | User: doğukan (ID: 1, Role: employee) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 | Role: employee | {}
+[2025-07-30 12:43:40] LOGOUT | User: doğukan (ID: 1, Role: employee) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 |  | {}
+[2025-07-30 12:43:40] LOGOUT | User: doğukan (ID: 1, Role: employee) | IP: ::1 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0 |  | {}
